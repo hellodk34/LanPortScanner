@@ -2,7 +2,7 @@
 
 一个用 Java 编写的局域网端口扫描工具，支持 TCP 和 HTTP 协议扫描。现成的 `LanPortScanner.jar` 文件（仅5.18KB）请在项目 release 页面下载。
 
-2026年2月26日 19:44:48 update: 忽然意识到，这个项目是基于 tcp/http 协议+特定端口，扫描给定局域网下载的活跃主机的，所以名称 LanPortScanner 应该改成 LanHostScanner 才对 -_- 不过不改了~ 知道就行，不影响使用~
+**2026年2月26日 19:44:48 update**: 忽然意识到，这个项目是基于 tcp/http 协议+特定端口，扫描给定网络范围下的活跃主机的（局域网），所以名称 LanPortScanner 应该改成 LanHostScanner 才对 -_- 不过不改了~ 知道就行，不影响使用~
 
 ## 我的使用场景举例
 
